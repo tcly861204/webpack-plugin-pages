@@ -1,0 +1,25 @@
+{
+  "name": "webpack-plugin-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcly861204/webpack-plugin-pages.git"
+  },
+  "keywords": [
+    "webpack",
+    "vue",
+    "pages",
+    "plugin"
+  ],
+  "author": "tcly861204 <tcly861204@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcly861204/webpack-plugin-pages/issues"
+  },
+  "homepage": "https://github.com/tcly861204/webpack-plugin-pages#readme"
+}

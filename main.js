@@ -1,0 +1,5 @@
+const path = require('path')
+const process = require('process')
+console.log(process.cwd())
+const __dirPath = process.cwd()
+console.log(path.resolve(__dirPath, 'src/pages'))
