@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-pages",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "这是webpack+vue配置多页打包插件",
   "main": "dist/main.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/tcly861204/webpack-plugin-pages/issues"
   },
   "homepage": "https://github.com/tcly861204/webpack-plugin-pages#readme",
-  "devDependencies": {
+  "dependencies": {
     "compression-webpack-plugin": "^4.0.0",
     "glob": "^7.1.6",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
