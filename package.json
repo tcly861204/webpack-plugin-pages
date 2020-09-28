@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-pages",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "这是webpack+vue配置多页打包插件",
   "main": "dist/main.min.js",
   "scripts": {
