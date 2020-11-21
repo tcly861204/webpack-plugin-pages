@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-pages",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "这是webpack+vue配置多页打包插件",
   "main": "dist/main.min.js",
   "scripts": {
@@ -32,6 +32,7 @@
     "simple-progress-webpack-plugin": "^1.1.2",
     "style-loader": "^1.2.1",
     "terser-webpack-plugin": "^3.0.7",
-    "webpack-bundle-analyzer": "^3.8.0"
+    "webpack-bundle-analyzer": "^3.8.0",
+    "webpack-manifest-plugin": "^2.2.0"
   }
 }
